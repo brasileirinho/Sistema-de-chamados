@@ -5,7 +5,7 @@ Programa testado nas distribuições Linux
 OcoMon - PHP
 
 
-![Repositorio do Ocomon](https://raw.githubusercontent.com/brasileirinho/Sistema-de-chamados/Default/OcoMon%20-%20SourceForge%20net.png)
+![Repositorio do Ocomon](OcoMon%20-%20SourceForge%20net.png)
 
 
 |Versão do OcoMon   | Distribuição Linux |          Programas necessarios               |
